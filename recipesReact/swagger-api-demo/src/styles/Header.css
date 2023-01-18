@@ -1,0 +1,13 @@
+header {
+    color: white;
+    background: rgb(48, 48, 48);
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline-block;
+}
